@@ -16,6 +16,7 @@ https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicsCompose
 - Styling and theming the app
 
 # Basic layouts in Compose
+https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicComposelayouts
 - Alignment
 - Card
 - Row - Arrangements
