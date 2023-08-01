@@ -25,3 +25,16 @@ https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicComposelayouts
 - Scrolling
 - Bottom navigation - Material
 - Scaffold
+
+# Basic layouts in Compose
+https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicStateCodelab
+- State in Compose
+- Events in Compose
+- Memory in a composable function
+- State driven UI
+- Remember in Composition
+- Restore state in Compose
+- State hoisting
+- Work with lists
+- Observable MutableList
+- State in ViewModel 
