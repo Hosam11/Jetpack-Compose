@@ -26,7 +26,7 @@ https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicComposelayouts
 - Bottom navigation - Material
 - Scaffold
 
-# Basic layouts in Compose
+# State in Jetpack Compose
 https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicStateCodelab
 - State in Compose
 - Events in Compose
