@@ -14,3 +14,14 @@ https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicsCompose
 - Persisting state
 - Animating list
 - Styling and theming the app
+
+# Basic layouts in Compose
+https://github.com/Hosam11/Jetpack-Compose/tree/main/BasicComposelayouts
+- Alignment
+- Card
+- Row - Arrangements
+- Lazy grids
+- Slot APIs
+- Scrolling
+- Bottom navigation - Material
+- Scaffold
